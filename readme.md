@@ -3,13 +3,7 @@
 
 ![](header.png)
 
-## Modules
-sys
-socket
-time
-threading
-
-##To Run
+## To Run
 ```sh
 python3 portscanner.py
 ```
